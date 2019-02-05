@@ -1,6 +1,6 @@
 # Questions for Customer
 
-##Purpose
+## Purpose
 Should the program calculate how much people should get paid, or do something else?
 Will it handle more than just paying employees? (material costs, electrical bills, etc)
 
@@ -19,7 +19,7 @@ Should the software tell the banks to pay the employees, or give a list of the i
 ## Software Inputs
 Does the customer want to provide a list of the pay rates for each employee, or each type of employee, or just have that information on every time sheet?
 
-##Misc.
+## Misc.
 Does it need to consider different pay rates for different tasks by same workers? (example: finish carpentry pays more than simple labour, but the finish carpenter may do some of both as needed)
 Will it need to bill things to different jobsites / projects?
 Will it handle paying for supplies / equipment?
